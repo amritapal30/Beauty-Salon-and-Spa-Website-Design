@@ -36,7 +36,7 @@ This is Home Page 3:---Starts
 
 
 This is About page of the website:---Starts
-![pic16](https://github.com/amritapal30/Beauty-Salon-and-Spa-Website-Design/assets/145271835/cb1b4bd8-beb9-4b7b-911f-2cc159cd5221)
+![pic22](https://github.com/amritapal30/Beauty-Salon-and-Spa-Website-Design/assets/145271835/b536afc4-78c6-48c1-9843-64cd160b4f4b)
 
 ![pic17](https://github.com/amritapal30/Beauty-Salon-and-Spa-Website-Design/assets/145271835/11ff19d0-47e6-437f-8e03-0b69d6772d3b)
 
