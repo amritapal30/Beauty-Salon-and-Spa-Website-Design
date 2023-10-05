@@ -1,8 +1,10 @@
 # Beauty-Salon-and-Spa-Website-Design
-A beauty salon or beauty parlor is an establishment that provides cosmetic treatments for people. Other variations of this type of business include hair salons, spas, day spas, and medical spas.
+A beauty salon is an establishment that offers a variety of cosmetic treatments and cosmetic services for men and women. Beauty salons may offer a variety of services including professional hair cutting and styling, manicures and pedicures, and often cosmetics, makeup and makeovers.
 
 This is the first home page of my Beauty Salon and Spa Website Project using html css js and bootstrap.
 The full document of the website files are uploaded in the profile. Check it out there!!
+
+Here I have uploaded some of the pages of my website...Have a look!
 
 ![pic5](https://github.com/amritapal30/Beauty-Salon-and-Spa-Website-Design/assets/145271835/2495e566-896f-41ad-a65d-0c4840b2f250)
 
