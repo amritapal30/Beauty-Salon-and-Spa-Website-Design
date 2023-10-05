@@ -38,3 +38,7 @@ This is About page of the website:---Starts
 
 ![pic17](https://github.com/amritapal30/Beauty-Salon-and-Spa-Website-Design/assets/145271835/11ff19d0-47e6-437f-8e03-0b69d6772d3b)
 
+This is the Appointment page of the website:---Starts
+![pic18](https://github.com/amritapal30/Beauty-Salon-and-Spa-Website-Design/assets/145271835/bf42ff8e-d666-42d7-85c0-4c43f7cbc940)
+
+![pic19](https://github.com/amritapal30/Beauty-Salon-and-Spa-Website-Design/assets/145271835/85e2a77f-577a-4e0b-86ae-ef7a2274ed42)
