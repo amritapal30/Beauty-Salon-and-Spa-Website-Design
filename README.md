@@ -48,3 +48,6 @@ This is the Appointment page of the website:---Starts
 
 This is Join to our Parlour form of those interested persons:---Starts
 ![pic20](https://github.com/amritapal30/Beauty-Salon-and-Spa-Website-Design/assets/145271835/3c54cfe0-5340-40b3-867a-4155a0bc0dd4)
+
+This is the contact page of our website:---Starts
+![pic21](https://github.com/amritapal30/Beauty-Salon-and-Spa-Website-Design/assets/145271835/055733e4-4e7e-493f-8e97-d5bf49dd85c4)
