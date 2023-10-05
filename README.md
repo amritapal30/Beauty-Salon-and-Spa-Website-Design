@@ -20,3 +20,15 @@ This is Home Page 2:---Starts
 ![pic9](https://github.com/amritapal30/Beauty-Salon-and-Spa-Website-Design/assets/145271835/7be51bc3-5e97-4d31-ad35-01832a71abfb)
 
 ![pic10](https://github.com/amritapal30/Beauty-Salon-and-Spa-Website-Design/assets/145271835/360af77a-9200-43d0-8ab4-451bd0900907)
+
+This is Home Page 3:---Starts
+![pic11](https://github.com/amritapal30/Beauty-Salon-and-Spa-Website-Design/assets/145271835/eac6b6ce-cec4-448b-87fd-9ceb5d2e6398)
+
+![pic12](https://github.com/amritapal30/Beauty-Salon-and-Spa-Website-Design/assets/145271835/c94a4c8e-dfc9-4703-8d7b-cde8bece28fe)
+
+![pic13](https://github.com/amritapal30/Beauty-Salon-and-Spa-Website-Design/assets/145271835/6e455816-ae68-41fa-a74d-62640ac255d6)
+
+![pic14](https://github.com/amritapal30/Beauty-Salon-and-Spa-Website-Design/assets/145271835/c5d89f5b-2de8-4eb9-a752-8f06455cf12f)
+
+![pic15](https://github.com/amritapal30/Beauty-Salon-and-Spa-Website-Design/assets/145271835/55647cf6-524e-4efa-87c9-9dcc15e56fdc)
+
