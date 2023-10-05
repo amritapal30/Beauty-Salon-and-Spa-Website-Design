@@ -10,3 +10,11 @@ The full document of the website files are uploaded in the profile. Check it out
 
 
 ![pic4](https://github.com/amritapal30/Beauty-Salon-and-Spa-Website-Design/assets/145271835/8a24fd7d-3382-4ba5-b68a-2d1c05d6d4a2)
+
+![pic7](https://github.com/amritapal30/Beauty-Salon-and-Spa-Website-Design/assets/145271835/666aee3b-9c41-413d-80e2-6f8331488d0d)
+
+![pic8](https://github.com/amritapal30/Beauty-Salon-and-Spa-Website-Design/assets/145271835/9c20b0cc-be10-417a-bcb5-1f4d6bf91715)
+
+![pic9](https://github.com/amritapal30/Beauty-Salon-and-Spa-Website-Design/assets/145271835/7be51bc3-5e97-4d31-ad35-01832a71abfb)
+
+![pic10](https://github.com/amritapal30/Beauty-Salon-and-Spa-Website-Design/assets/145271835/360af77a-9200-43d0-8ab4-451bd0900907)
