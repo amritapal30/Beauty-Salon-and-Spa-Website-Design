@@ -32,3 +32,9 @@ This is Home Page 3:---Starts
 
 ![pic15](https://github.com/amritapal30/Beauty-Salon-and-Spa-Website-Design/assets/145271835/55647cf6-524e-4efa-87c9-9dcc15e56fdc)
 
+
+This is About page of the website:---Starts
+![pic16](https://github.com/amritapal30/Beauty-Salon-and-Spa-Website-Design/assets/145271835/cb1b4bd8-beb9-4b7b-911f-2cc159cd5221)
+
+![pic17](https://github.com/amritapal30/Beauty-Salon-and-Spa-Website-Design/assets/145271835/11ff19d0-47e6-437f-8e03-0b69d6772d3b)
+
